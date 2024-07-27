@@ -1,6 +1,5 @@
 It is a weather forecasting application which give you information about the weather of a particular location . It show temperature, wind speed, humidity, weather of next few days. It is responsive application.
 These are the features of the weather app:
-
 1. *API Integration:*
    - Used a weather API (OpenWeatherMap) to fetch real-time weather data.
 
